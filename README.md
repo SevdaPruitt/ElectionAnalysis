@@ -8,10 +8,9 @@
       - The winner of the election based on popular vote
       
   After providing the list above, it was necessary to build more on the initial work and deep dive into further 
+  
       - The voter turnout for each county
-      
       - The percentage of votes from each county out of the total count
-      
       - The county with the highest turnout
       
   Looking at the election data more in details, specifically at county level provides more transparency to election commission.
