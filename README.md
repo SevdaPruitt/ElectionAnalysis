@@ -1,13 +1,13 @@
 # ElectionAnalysis
 1. Overview of Election Audit: 
-  Initial audit request was on the following data points:
+   Initial audit request was on the following data points:
       - Total number of votes cast 
       - A complete list of candidates who received votes
       - Total number of votes each candidate received
       - Percentage of votes each candidate won
       - The winner of the election based on popular vote
       
-  After providing the list above, it was necessary to build more on the initial work and deep dive into further: 
+   After providing the list above, it was necessary to build more on the initial work and deep dive into further:
       - The voter turnout for each county
       - The percentage of votes from each county out of the total count
       - The county with the highest turnout
