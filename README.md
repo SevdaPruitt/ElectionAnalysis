@@ -16,7 +16,7 @@
 
 2. Election-Audit Results: 
 
-![Outputs_for_2017.png](Resources/Outputs_for_2017.png)
+![Deliverable1-ElectionResults.png](Resources/Deliverable1-ElectionResults.png)
 - How many votes were cast in this congressional election?
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
