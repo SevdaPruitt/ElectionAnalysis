@@ -40,3 +40,6 @@
     Winning Percentage: 73.8%
 
 3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+The current script could be modified in two additional ways that could improve and help the auditing process in the coming years, even in larger scope. I have worked with simple a .csv text file. If there would be databases to connect, this could be modified and the script could directly get the data from its resource. Next, the code could be modified to accept any county and any candidate if paramaters would be created along with more modular or object oriented method calls. The script works with a small data set from a simple file for now. This could be easily updated to bring clarity at a larger scale.
+
